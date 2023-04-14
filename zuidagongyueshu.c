@@ -5,7 +5,7 @@ int main()
 	int num2 = 0;
 	int num3 = 0;
 	int i = 1;
-	printf("请输入两个数字\n");
+	printf("enter two numbers\n");
 	scanf("%d%d",&num1,&num2);
 	while(i<=num1||i<=num2)
 	{
